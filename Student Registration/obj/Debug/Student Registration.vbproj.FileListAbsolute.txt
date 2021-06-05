@@ -1,0 +1,12 @@
+c:\users\chris\source\repos\Student Registration\Student Registration\bin\Debug\Student Registration.exe.config
+c:\users\chris\source\repos\Student Registration\Student Registration\bin\Debug\Student Registration.exe
+c:\users\chris\source\repos\Student Registration\Student Registration\bin\Debug\Student Registration.pdb
+c:\users\chris\source\repos\Student Registration\Student Registration\bin\Debug\Student Registration.xml
+c:\users\chris\source\repos\Student Registration\Student Registration\obj\Debug\Student Registration.vbprojAssemblyReference.cache
+c:\users\chris\source\repos\Student Registration\Student Registration\obj\Debug\Student_Registration.Resources.resources
+c:\users\chris\source\repos\Student Registration\Student Registration\obj\Debug\Student Registration.vbproj.GenerateResource.cache
+c:\users\chris\source\repos\Student Registration\Student Registration\obj\Debug\Student Registration.vbproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\Student Registration\Student Registration\obj\Debug\Student Registration.exe
+c:\users\chris\source\repos\Student Registration\Student Registration\obj\Debug\Student Registration.xml
+c:\users\chris\source\repos\Student Registration\Student Registration\obj\Debug\Student Registration.pdb
+C:\Users\Chris\source\repos\Student Registration\Student Registration\obj\Debug\Student_Registration.FrmMain.resources
